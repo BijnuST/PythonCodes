@@ -11,7 +11,7 @@ for i in range(5):
         print("*",end=" ") 
     print() # using empty print statement moves cursor to new line.
 '''
-from _ast import If
+
 ''' Triangle
    * 
   ***
