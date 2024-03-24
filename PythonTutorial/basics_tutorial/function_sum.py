@@ -37,4 +37,4 @@ def mult_retvalue(a,b):       # function with parameters/arguments. These are fo
 a=int(input("Enter a num :"))
 b=int(input("Enter another num :"))
 ret1,ret2=mult_retvalue(a, b)
-print("Returned values from function are",ret1,"and",ret2)
+print("Returned values from function are: Sum =",ret1,"and Difference =",ret2)
