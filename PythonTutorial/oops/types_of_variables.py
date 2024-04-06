@@ -3,7 +3,7 @@ Created on 30-Mar-2024
 
 Types of variables:
 
-1. Instance/Object variables. Their values changes from object to object. This can be declared anywhere.
+1. Instance/Object variables. Their values change from object to object. This can be declared anywhere.
 2. Static/Class variable. Can be used in code with classname.class variable name. Refer line#17
 3. Method/Local variables.
 

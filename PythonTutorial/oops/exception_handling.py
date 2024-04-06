@@ -1,7 +1,7 @@
 '''
 Created on 06-Apr-2024
 
-Exception Handling: Handling abnormal/unexpected behaviors of/from web sites.
+Exception Handling: Handling abnormal/unexpected behaviors of/from the web sites.
 
 Types of errors:
     1. Compile time errors : This cannot be handled. Coder/developer/programmer is solely responsible for this.

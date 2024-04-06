@@ -1,5 +1,6 @@
 '''
 Created on 30-Mar-2024
+
 Any variable or method of a class is its property.
 
 Inheritance : 

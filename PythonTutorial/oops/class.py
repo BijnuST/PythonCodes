@@ -1,5 +1,5 @@
 '''
-Every function defined inside a class is called a method.
+Every function that is defined inside a class is called a method.
 
 First we have to create a class, then we have to create an object from the class and 
 then call the class using the object.

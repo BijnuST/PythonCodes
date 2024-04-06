@@ -1,7 +1,7 @@
 '''
 Created on 30-Mar-2024
 
-Constructor : is  a method used to construct an object.
+Constructor :This is  a method used to construct an object.
 1. Constructor is not mandatory. 
     There is a built in function dir. '__class__', '__delattr__', '__dict__'--> 
     The underscore is given for magic methods.Even though constructor is not mentioned,Py creates one on its own.

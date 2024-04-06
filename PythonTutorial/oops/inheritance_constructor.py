@@ -1,7 +1,7 @@
 '''
 Created on 30-Mar-2024
 
-Constructor from parent class also is inherited and called implicitly when child class object is created.
+Constructor from parent class too is inherited and called implicitly when child class object is created.
 
 '''
 '''
